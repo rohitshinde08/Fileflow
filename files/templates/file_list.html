@@ -1,0 +1,14 @@
+<h2>Uploaded Files</h2>
+<table>
+    <tr>
+        <th>Filename</th>
+        <th>Action</th>
+    </tr>
+    {% for file in files %}
+    <tr>
+        <td>{{ file.filename }}</td>
+        <td><a href="{% url 'download_file' file.id %}">Download</a></td>
+    </tr>
+    {% endfor %}
+</table>
+<a href="{% url 'upload_file' %}">Upload New File</a>
