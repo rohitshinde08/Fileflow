@@ -32,4 +32,4 @@ A file-sharing web application built with Django — allowing users to upload, v
 
 ## 📧 Feedback & Contact
 Created by Rohit Shinde.
-- Reach out: rohit.shinde907557@gmail.com
+- Reach out: rohit.shinde9575@gmail.com
