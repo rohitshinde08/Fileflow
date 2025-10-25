@@ -9,7 +9,7 @@ A file-sharing web application built with Django — allowing users to upload, v
 - **User‑friendly interface**: Upload and manage files via clean, intuitive UI.
 - **File listing & download**: View all uploads and download any file with ease.
 - **Secure storage**: Files are handled via Django’s safe storage practices.
-- **SQLite support**: Lightweight default DB setup—easy to start.
+- **SQLite support**: Lightweight default DB setup—easy to start..
 - **Django-powered**: Extendable, customizable, and backed by Django’s robust ecosystem.
 
 ---
